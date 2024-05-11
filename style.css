@@ -73,7 +73,6 @@ main .all-todos .single-todo {
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
 main .all-todos .single-todo p {
